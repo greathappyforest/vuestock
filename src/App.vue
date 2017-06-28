@@ -11,6 +11,7 @@
     </div>
 </template>
 
+
 <script>
     import Header from './components/Header.vue';
     export default {
@@ -22,5 +23,7 @@
 
 
 <style>
-
+    body {
+        padding: 30px;
+    }
 </style>
